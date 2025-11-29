@@ -1,11 +1,5 @@
-Based on the data provided, this project is titled **"NoSQL"** (specifically focusing on **MongoDB**), not "Python - Inheritance". I have titled the README to reflect the actual content of the project.
-
-Here is the formatted text for your `README.md`.
-
------
-
 ````markdown
-# NoSQL - MongoDB
+# NoSQL
 
 This project introduces **NoSQL** databases, specifically focusing on **MongoDB**. You will learn the fundamental differences between SQL and NoSQL, how to perform basic CRUD operations (Create, Read, Update, Delete) using the MongoDB shell, and how to interact with MongoDB using Python and `PyMongo`.
 
